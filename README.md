@@ -1,7 +1,6 @@
 # Socket.io with Elephant.io
 
 # Elephant.io
-===========
 [![Build Status](https://travis-ci.org/Wisembly/elephant.io.svg?branch=master)](https://travis-ci.org/Wisembly/elephant.io)
 [![Latest Stable Version](https://poser.pugx.org/wisembly/elephant.io/v/stable.svg)](https://packagist.org/packages/wisembly/elephant.io)
 [![Total Downloads](https://poser.pugx.org/wisembly/elephant.io/downloads.svg)](https://packagist.org/packages/wisembly/elephant.io) 
@@ -23,7 +22,6 @@ Elephant.io is a rough websocket client written in PHP. Its goal is to ease the 
 4. Install via composer : `php composer.phar install`
 
 # Socket.io
-===========
 [![Build Status](https://secure.travis-ci.org/socketio/socket.io.svg?branch=master)](https://travis-ci.org/socketio/socket.io)
 [![Dependency Status](https://david-dm.org/socketio/socket.io.svg)](https://david-dm.org/socketio/socket.io)
 [![devDependency Status](https://david-dm.org/socketio/socket.io/dev-status.svg)](https://david-dm.org/socketio/socket.io#info=devDependencies)
